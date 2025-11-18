@@ -114,7 +114,6 @@ def create_event(event_name: str, description: str, event_date: str, locations: 
 
   * **Graph DDL & Queries:** We utilize Spanner’s **GRAPH DDL** and query features for modeling intricate relationships and performing efficient graph traversal.
 
-> \*\*
 
 ### 7\. Platform Integration: Model Context Protocol (MCP)
 
@@ -179,8 +178,6 @@ Future development will focus on:
 -----
 
 ## 👋 Connect with Me
-
-This blog is published as a part of Build & Blog Marathon 2025.
 
 | Platform | Link |
 | :--- | :--- |
